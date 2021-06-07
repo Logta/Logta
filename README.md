@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Logta
-- 👀 I’m interested in React
+- 👀 I’m interested in React, Typescript
 - 🌱 I’m currently learning Rust, Flutter
 - 📫 How to reach me ...
 
